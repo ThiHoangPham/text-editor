@@ -1,4 +1,3 @@
-# text-editor
 <h1 align="center"> PWA - TEXT EDITOR 🚩</h1>
 <br>
 <p align="center">
