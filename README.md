@@ -156,4 +156,4 @@ This how you can contribute to this project:
 
 - - -
 
-© 2021 Thai Hoang Pham (Adam): PWA - Text Editor
+© 2021 Hoang Thai Pham(Adam): PWA - Text Editor
