@@ -65,7 +65,7 @@
       <li><a href="#contributor">Contributor</a></li>
       <li><a href="#contribution">Contribution</a></li>
       <li><a href="#license">License</a></li>
-      <li><a href="#more-about-me">Questions & Contact</a></li>
+      <li><a href="#more-about-me">More About Me</a></li>
     </ul>
   </details>
 
